@@ -27,14 +27,21 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Provided Mock-up Dashboard
-[([Screenshot 2023-12-22 233535](https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/assets/150749117/f69d377f-820c-4b7d-9762-4b44449cbd01)]
+## Provided Mock-up Dashboard
+![mock up dashboard_atliq grands](https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/assets/150749117/3fa1c1dc-0565-4f6f-88cc-a0d8ff22098a)
 
-(Data Model)_[https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/blob/main/Screenshot%202023-12-22%20233535.png]_
 
-(Overall Analysis View)_[https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/blob/main/Screenshot%202023-12-22%20233628.png]_
 
-(KPI Analysis View)_[https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/blob/main/Screenshot%202023-12-22%20233650.png]_
+## Data Model
+![Screenshot 2023-12-22 233535](https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/assets/150749117/b7fd52b0-2f91-457a-93b3-68257f727eaf)
+
+
+## Overall Analysis View
+![Screenshot 2023-12-22 233628](https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/assets/150749117/4e0cf7d4-93f5-47b1-88e3-30abee62b4a7)
+
+
+## KPI Analysis View
+![Screenshot 2023-12-22 233650](https://github.com/Bhagyasree27/AtliQ-Grands---Hotel-Revenue-Insights/assets/150749117/b02aab6a-91aa-4952-bf24-c22dc3b57b06)
 
 
 ### Tools used:
